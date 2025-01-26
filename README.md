@@ -1,1 +1,1 @@
-# [go-tutorial](https://bugaboolol.github.io/comp423-course-notes/tutorials/rust-setup/))
+# [go-tutorial](https://bugaboolol.github.io/comp423-course-notes/tutorials/rust-setup/)
