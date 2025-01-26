@@ -1,1 +1,1 @@
-# [rust tutorial] https://bugaboolol.github.io/comp423-course-notes/tutorials/rust-setup/
+# [rust-tutorial] (https://bugaboolol.github.io/comp423-course-notes/tutorials/rust-setup/)
